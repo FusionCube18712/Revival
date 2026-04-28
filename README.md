@@ -1,0 +1,3 @@
+Revival is a factory game about restoring a dead world by harvesting elemental materials, crafting machines, and feeding spirit coins into a shrine that revives the land. You move through a ruined landscape, collect ingredients like Ember, Silt, Frost, Bone, Mire, Sap, and God-core, then combine them into custom production machines. Those machines are placed in a build area, upgraded, expanded, and used to generate spirit coins based on tier and efficiency. When the shrine reaches 5,000 coins, the world comes back to life.
+
+Progress doesn’t come from one fixed factory line, but from swapping parts, combining ingredient families, and assembling your own machine logic.
